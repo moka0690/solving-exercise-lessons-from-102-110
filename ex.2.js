@@ -11,10 +11,6 @@ window.addEventListener("load", () => {
 });
 
 
-
-
-
-
 const counterDiv = document.querySelector(".counterDiv");
 const counter = parseInt(counterDiv.textContent);
 
